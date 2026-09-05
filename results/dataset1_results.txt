@@ -1,3 +1,4 @@
+HAM10000 FINAL RESULTS
 | Model            | Accuracy | Precision | Sensitivity | F1 Score | ROC-AUC |
 | DenseNet121      |    88.96 |     65.28 |       25.13 |    36.29 |   86.03 |
 | ResNet101        |    88.55 |     75.00 |       12.83 |    21.92 |   87.18 |
