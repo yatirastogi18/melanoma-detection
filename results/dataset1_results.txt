@@ -1,0 +1,27 @@
+| Model            | Accuracy | Precision | Sensitivity | F1 Score | ROC-AUC |
+| DenseNet121      |    88.96 |     65.28 |       25.13 |    36.29 |   86.03 |
+| ResNet101        |    88.55 |     75.00 |       12.83 |    21.92 |   87.18 |
+| EfficientNetV2   |    89.63 |     70.00 |       29.95 |    41.95 |   85.84 |
+| ConvNeXt Tiny    |    87.48 |      0.00 |        0.00 |     0.00 |   83.58 |
+| Swin Transformer |    87.48 |      0.00 |        0.00 |     0.00 |   84.05 |
+| MedFairXNet      |    74.97 |     30.48 |       78.07 |    43.84 |   86.19 |
+
+
+PH2 FINAL RESULTS TABLE
+
+              Model  Accuracy  Precision  Sensitivity     F1  ROC_AUC
+0       DenseNet121     90.00      80.00        66.67  72.73    93.75
+1         ResNet101     93.33      83.33        83.33  83.33    98.61
+2    EfficientNetV2     93.33     100.00        66.67  80.00    97.20
+3     ConvNeXt Tiny     86.67      66.67        66.67  66.67    92.36
+4  Swin Transformer     86.67      66.67        66.67  66.67    94.44
+5       MedFairXNet     80.00      50.00        83.33  62.50    90.28
+
+ISIC2018 Final Results
+Model	git initAccuracy	Precision	Sensitivity	F1 Score	ROC-AUC
+DenseNet121	91.08	69.41	35.33	46.83	90.71
+ResNet101	89.83	68.04	35.29	46.48	89.31
+EfficientNetV2	92.68	72.22	44.91	55.34	93.43
+ConvNeXt Tiny	87.95	88.89	4.28	8.16	86.12
+Swin Transformer	88.29	73.08	10.16	17.84	84.99
+MedFairXNet	88.42	61.29	20.32	30.52	83.87
