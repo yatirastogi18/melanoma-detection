@@ -51,10 +51,6 @@ The complete research manuscript is available in the `paper` directory.
 B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)  
 JSS University, Noida (2025–2029)
 
-## Internship
-
-This project was completed as part of a **Machine Learning Internship at Suvidha Foundation**.
-
 ## License
 
 This repository is intended for academic and educational purposes.
